@@ -20,7 +20,7 @@
 ### Languages
 
 <div>
-<img src="https://cdn-icons.flaticon.com/png/512/5433/premium/5433712.png?token=exp=1641543238~hmac=5ee3764b96ae1775c57677a5088ef569" alt="Java" height="36">
+<img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" alt="Java" height="36">
 <img src="https://github.com/Subhampreet/Subhampreet/blob/master/logos/JS.png" height="30">
 <img src="https://avatars.githubusercontent.com/u/1525981?s=200&v=4" height="36">
 </div>
